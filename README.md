@@ -1,1 +1,2 @@
 # jsr-Lab1
+Man in the mirror by Micheal Jackson is the song I choose. It's long but I love it so please work with me. Plus I need the practice. Also I am using my read me to break it down how you told me. I will you comments for lyrical purpose. Anything that is not in a comment I mean for you to read.
