@@ -3,21 +3,21 @@ function manInTheMirror(){
 
     
     function verse1(){
-
         console.log("I'm gonna make a change")
         console.log("For once in my life")    
         console.log("It's gonna feel real good")
         console.log("Gonna make a difference, gonna make it right")
         console.log("As I turn up the collar on my favorite winter coat")
-    console.log("This wind is blowin' my mind")
-    console.log("I see the kids in the street with not enough to eat")
-    console.log("Who am I to be blind, pretending not to see their needs?")
-    console.log("A summer's disregard, a broken bottle top")
-    console.log("And a one man's soul")
-    console.log("They follow each other on the wind, ya know")
-    console.log("Cause they got nowhere to go")
-    console.log("That's why I want you to know")        
+        console.log("This wind is blowin' my mind")
+        console.log("I see the kids in the street with not enough to eat")
+        console.log("Who am I to be blind, pretending not to see their needs?")
+        console.log("A summer's disregard, a broken bottle top")
+        console.log("And a one man's soul")
+        console.log("They follow each other on the wind, ya know")
+        console.log("Cause they got nowhere to go")
+        console.log("That's why I want you to know")        
 }
+verse1()
 
 function chorus(){
     console.log("I'm starting with the man in the mirror")
@@ -26,11 +26,14 @@ function chorus(){
     console.log("If you wanna make the world a better place")
     console.log("Take a look at yourself and then make a change")
 }
+chorus()
 
 function addOn(){
 
     console.log("Na-na-na, na-na-na, na-na-na-na Uh-huh")
 }
+ addOn()
+
  function verse2(){
 
      console.log("I've been a victim of a selfish kinda love")
@@ -44,24 +47,12 @@ function addOn(){
      console.log("That's why I'm starting with me")
     }
 
+verse2()
 
-I'm starting with the man in the mirror (who?)
-I'm asking him to change his ways (who?)
-And no message could have been any clearer
-If you wanna make the world a better place
-Take a look at yourself and then make a change
+chorus()
+chorus()
+chorus()
 
-I'm starting with the man in the mirror (who?)
-I'm asking him to change his ways (who?)
-And no message could have been any clearer
-If you wanna make the world a better place
-Take a look at yourself and then make that change
-
-("I'm starting with the man in the mirror (oh, yeah)
-I'm asking him to change his ways (oh, you better change)
-No message could have been any clearer
-If you wanna make the world a better place
-Take a look at yourself and then make the change
 
 
 function ending(){
@@ -75,7 +66,8 @@ function ending(){
     console.log("If you wanna make the world a better place")
     console.log("Take a look at yourself and then make that change")
     
-    Na-na-na, na-na-na, na-na-na-na
+    addOn()
+    //Na-na-na, na-na-na, na-na-na-na
     
     console.log("(Ooh) gonna feel real good, yeah (oh, yeah)")
     console.log("Yeah, yeah, yeah, yeah (na-na-na), yeah, yeah (na-na-na, na-na-na-na)")
@@ -96,5 +88,9 @@ function ending(){
     console.log("tGo make that change, shamone (man in the mirror)")
     console.log("You know it, you know it, you know it, you know (change)")
     console.log("Make that change") 
+
+    }
+    ending()
 }
-}
+manInTheMirror()
+
