@@ -1,4 +1,4 @@
-
+function verse1
     console.log("I'm gonna make a change")
     console.log("For once in my life")    
     console.log("It's gonna feel real good")
@@ -16,40 +16,45 @@
 function chorus(){
     console.log("I'm starting with the man in the mirror")
     console.log("I'm asking him to change his ways")
-    And no message could have been any clearer
-    If you wanna make the world a better place
-    Take a look at yourself and then make a change
+    console.log("And no message could have been any clearer")
+    console.log("If you wanna make the world a better place")
+    console.log("Take a look at yourself and then make a change")
 }
 
 function addOn(){
-    Na-na-na, na-na-na, na-na-na-na
-    Uh-huh
+
+    console.log("Na-na-na, na-na-na, na-na-na-na Uh-huh")
 }
 
-I've been a victim of a selfish kinda love
-It's time that I realize
-There are some with no home, not a nickel to loan
-Could it be really me pretending that they're not alone?
-A willow deeply scarred, somebody's broken heart
-And a washed-out dream (a washed-out dream)
-They follow the pattern of the wind, ya see
-'Cause they got no place to be
-That's why I'm starting with me
+console.log("I've been a victim of a selfish kinda love")
+console.log("It's time that I realize")
+console.log("There are some with no home, not a nickel to loan")
+console.log("Could it be really me pretending that they're not alone?")
+console.log("A willow deeply scarred, somebody's broken heart")
+console.log("And a washed-out dream (a washed-out dream)")
+console.log("They follow the pattern of the wind, ya see")
+console.log("'Cause they got no place to be")
+console.log("That's why I'm starting with me")
+
+
 I'm starting with the man in the mirror (who?)
 I'm asking him to change his ways (who?)
 And no message could have been any clearer
 If you wanna make the world a better place
 Take a look at yourself and then make a change
+
 I'm starting with the man in the mirror (who?)
 I'm asking him to change his ways (who?)
 And no message could have been any clearer
 If you wanna make the world a better place
 Take a look at yourself and then make that change
+
 I'm starting with the man in the mirror (oh, yeah)
 I'm asking him to change his ways (oh, you better change)
 No message could have been any clearer
 If you wanna make the world a better place
 Take a look at yourself and then make the change
+
 You gotta get it right while you got the time
 'Cause when you close your heart (you can't)
 Then you close your (your) mind (that man, that man)
@@ -59,17 +64,19 @@ Oh, you better change (you know, that man)
 And no message could have been any clearer
 If you wanna make the world a better place
 Take a look at yourself and then make that change
+
 Na-na-na, na-na-na, na-na-na-na
-(Ooh) gonna feel real good, yeah (oh, yeah)
-Yeah, yeah, yeah, yeah (na-na-na), yeah, yeah (na-na-na, na-na-na-na)
-Oh-oh, oh, no
-I'm gonna make a change
-It's gonna feel real good, shamone (change)
-Just lift yourself, you know
-You've got to start with yourself (yeah)
-I gotta make that change today
-(Man in the mirror) you've got to
-You got to start with yourself, brother
+
+console.log("(Ooh) gonna feel real good, yeah (oh, yeah)")
+console.log("Yeah, yeah, yeah, yeah (na-na-na), yeah, yeah (na-na-na, na-na-na-na)")
+console.log("Oh-oh, oh, no")
+console.log("I'm gonna make a change")
+console.log("It's gonna feel real good, shamone (change)")
+console.log("Just lift yourself, you know")
+console.log("You've got to start with yourself (yeah)")
+console.log("I gotta make that change today")
+console.log("(Man in the mirror) you've got to")
+console.log("You got to start with yourself, brother")
 console.log("(Yeah) you know")
 console.log(" I've got to be that man, that man")
 console.log("(Man in the mirror) you've got to")
